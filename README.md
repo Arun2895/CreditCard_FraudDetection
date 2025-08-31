@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection System
+#Credit Card Fraud Detection System
 
 A machine learning-based **Credit Card Fraud Detection System** built using **Logistic Regression**.  
 This project analyzes credit card transactions and identifies fraudulent activities with high accuracy.  
