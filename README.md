@@ -8,7 +8,7 @@ Visualizations are provided using **Matplotlib** and **Seaborn** for better insi
 ## 📂 Dataset
 The dataset contains anonymized credit card transactions with highly imbalanced classes.  
 Due to GitHub file size limitations, the dataset can be downloaded from here:  
-👉 [Kaggle Dataset by arun2895](https://www.kaggle.com/datasets/arun2895/credit-card-dataset))  
+👉 ([Kaggle Dataset by arun2895](https://www.kaggle.com/datasets/arun2895/credit-card-dataset))  
 
 ---
 
